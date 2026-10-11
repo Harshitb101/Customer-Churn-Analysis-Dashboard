@@ -19,7 +19,7 @@ This project analyzes customer churn using Power BI to identify patterns in cust
 
 ## Project Files
 - Power BI dashboard (`.pbix`)
-- Pythoon (`.ipynb`)
+- Python (`.ipynb`)
 - Cleaned dataset (`.csv`)
 - Dashboard screenshots
 
