@@ -25,3 +25,6 @@ This project analyzes customer churn using Power BI to identify patterns in cust
 
 ## Objective
 To transform customer data into actionable insights using data visualization and analysis, helping businesses understand churn patterns and identify opportunities to improve customer retention.
+## Dashboard Preview
+
+![Customer Churn Dashboard](Screenshot%202026-10-11%20181942.png)
