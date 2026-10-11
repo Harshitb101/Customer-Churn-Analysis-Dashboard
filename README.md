@@ -1,7 +1,7 @@
 # Customer Churn Analysis Dashboard
 
 ## Overview
-This project analyzes customer churn using Power BI to identify patterns in customer behavior and retention. The dashboard explores churn across geography, gender, age groups, and number of products to support data-driven business decisions.
+This was my first project ever, 2 years ago. It analyzes customer churn using Power BI to identify patterns in customer behavior and retention. The dashboard explores churn across geography, gender, age groups, and number of products to support data-driven business decisions.
 
 ## Tools Used
 - **Power BI** – Dashboard development and data visualization
